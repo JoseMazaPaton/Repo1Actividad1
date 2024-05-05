@@ -6,7 +6,7 @@ public class FrankMariDelPrado {
 		saludar();
 
 	}
-
+	
 	public static void saludar() {
 		System.out.println("¡Hola, soy Frank!");
 	}
